@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{6C5D3021-EDD8-4460-ABE3-055C4B8AB9E6}|https">
+  <MonoDevelop.Ide.ItemProperties.ProductsAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProductsAPI/Data/AppDbContext.cs">
+    <Files>
+      <File FileName="ProductsAPI/Controllers/ProductsController.cs" />
+      <File FileName="ProductsAPI/Data/AppDbContext.cs" Line="15" Column="1" />
+      <File FileName="ProductsAPI/Services/ProductService.cs" />
+      <File FileName="ProductsAPI/Models/Buyer.cs" />
+      <File FileName="ProductsAPI/Models/Product.cs" />
+      <File FileName="ProductsAPI/Services/IProductService.cs" />
+      <File FileName="ProductsAPI/Services/NotifyService.cs" />
+      <File FileName="ProductsAPI/Services/INotifyService.cs" />
+      <File FileName="ProductsAPI/Program.cs" />
+      <File FileName="ProductsAPI.Tests/ProductsControllerTests.cs" />
+      <File FileName="ProductsAPI.Tests/ProductsAPI.Tests.csproj" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProductsAPI" expanded="True">
+            <Node name="ProductsAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="AppDbContext.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="ProductsAPI.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
