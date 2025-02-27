@@ -1,14 +1,11 @@
 ﻿<Properties StartupConfiguration="{6C5D3021-EDD8-4460-ABE3-055C4B8AB9E6}|https">
-  <MonoDevelop.Ide.ItemProperties.ProductsAPI PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="ProductsAPI/Data/AppDbContext.cs">
     <Files>
       <File FileName="ProductsAPI/Controllers/ProductsController.cs" />
-      <File FileName="ProductsAPI/Data/AppDbContext.cs" Line="15" Column="1" />
+      <File FileName="ProductsAPI/Data/AppDbContext.cs" Line="9" Column="1" />
       <File FileName="ProductsAPI/Services/ProductService.cs" />
       <File FileName="ProductsAPI/Models/Buyer.cs" />
       <File FileName="ProductsAPI/Models/Product.cs" />
@@ -22,10 +19,10 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ProductsAPI" expanded="True">
-            <Node name="ProductsAPI" expanded="True">
+          <Node name="ProductsAPI">
+            <Node name="ProductsAPI">
               <Node name="Controllers" expanded="True" />
-              <Node name="Data" expanded="True">
+              <Node name="Data">
                 <Node name="AppDbContext.cs" selected="True" />
               </Node>
               <Node name="Models" expanded="True" />
@@ -35,7 +32,15 @@
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ProductsAPI" expanded="True" selected="True" />
+        </State>
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ProductsAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
